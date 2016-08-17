@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package prolibro;
+package test;
 
 /**
  *
  * @author ja
  */
 import Util.Connexion;
-public class Prolibro {
+public class Test {
 
     /**
      * @param args the command line arguments
